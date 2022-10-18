@@ -1,0 +1,2724 @@
+fileFormatVersion: 2
+guid: e47687cd330508740893b516aa637f1e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5904736339025744204
+    second: attack1-tile000
+  - first:
+      213: 8216327710949080086
+    second: attack1-tile001
+  - first:
+      213: 1870870974578511527
+    second: attack1-tile002
+  - first:
+      213: -600073846480156465
+    second: attack1-tile003
+  - first:
+      213: 7901243467189056878
+    second: attack1-tile004
+  - first:
+      213: -8180603240147637324
+    second: attack1-tile005
+  - first:
+      213: -4597931027205488852
+    second: attack1-tile006
+  - first:
+      213: -2555865106068113107
+    second: attack1-tile007
+  - first:
+      213: -4201698850951254544
+    second: attack1-tile008
+  - first:
+      213: 7668623215032046231
+    second: attack1-tile009
+  - first:
+      213: 6717306632699922946
+    second: attack1-tile010
+  - first:
+      213: 3418841489689730568
+    second: attack1-tile011
+  - first:
+      213: 7195134663666407742
+    second: attack1-tile012
+  - first:
+      213: 3137275316406878542
+    second: attack1-tile013
+  - first:
+      213: -7798829764624806375
+    second: attack1-tile014
+  - first:
+      213: 1994012519992698148
+    second: attack1-tile015
+  - first:
+      213: -8460832474329574787
+    second: attack1-tile016
+  - first:
+      213: 3079073681530231922
+    second: attack1-tile017
+  - first:
+      213: 4352803148125257524
+    second: attack1-tile018
+  - first:
+      213: -6000503505682867829
+    second: attack1-tile019
+  - first:
+      213: 1362330273211280771
+    second: attack1-tile020
+  - first:
+      213: 9218310068478368461
+    second: attack1-tile021
+  - first:
+      213: -7465540826170263103
+    second: attack1-tile022
+  - first:
+      213: 712015828891118235
+    second: attack1-tile023
+  - first:
+      213: 2098448489957616205
+    second: attack1-tile024
+  - first:
+      213: -5156155759390839493
+    second: attack1-tile025
+  - first:
+      213: 3949970234708825977
+    second: hurt-tile000
+  - first:
+      213: 6016888572314049766
+    second: hurt-tile001
+  - first:
+      213: -7088529360657998067
+    second: hurt-tile002
+  - first:
+      213: 1949745291412612805
+    second: hurt-tile003
+  - first:
+      213: 1702608955922563150
+    second: hurt-tile004
+  - first:
+      213: 4700371898123948679
+    second: hurt-tile005
+  - first:
+      213: 2693133604025727608
+    second: hurt-tile006
+  - first:
+      213: 8967237785544095929
+    second: idle-tile000
+  - first:
+      213: -8637303002298341929
+    second: idle-tile001
+  - first:
+      213: -7882139545075874581
+    second: idle-tile002
+  - first:
+      213: 7357607433523986841
+    second: idle-tile003
+  - first:
+      213: 4946365073705143169
+    second: idle-tile004
+  - first:
+      213: 416109179539260616
+    second: idle-tile005
+  - first:
+      213: -6618157760912270433
+    second: idle-tile006
+  - first:
+      213: -658762162053080113
+    second: idle-tile007
+  - first:
+      213: -4483416919957972186
+    second: idle-tile008
+  - first:
+      213: 8400916981184270243
+    second: idle-tile009
+  - first:
+      213: -1740602056916252795
+    second: idle-tile010
+  - first:
+      213: 5040920853165757225
+    second: idle-tile011
+  - first:
+      213: -1313572616342446034
+    second: idle-tile012
+  - first:
+      213: -8258450099274371880
+    second: idle-tile013
+  - first:
+      213: 8868873161445726376
+    second: idle-tile014
+  - first:
+      213: -2397265995416558213
+    second: idle-tile015
+  - first:
+      213: -3604491024183386964
+    second: idle-tile016
+  - first:
+      213: 2892687497959343238
+    second: idle-tile017
+  - first:
+      213: 2347790511033412645
+    second: jump-tile000
+  - first:
+      213: -3805048710326899776
+    second: jump-tile001
+  - first:
+      213: 6246026045589270402
+    second: jump-tile002
+  - first:
+      213: -4102228571385369208
+    second: jump-tile003
+  - first:
+      213: -132663808969201211
+    second: jump-tile004
+  - first:
+      213: 6295705728174121795
+    second: jump-tile005
+  - first:
+      213: -6172906029832046360
+    second: jump-tile006
+  - first:
+      213: -6716937677191438370
+    second: jump-tile007
+  - first:
+      213: -8378545623470482469
+    second: jump-tile008
+  - first:
+      213: 7852362267810047973
+    second: jump-tile009
+  - first:
+      213: 1820132771935730401
+    second: jump-tile010
+  - first:
+      213: 8202750403511512645
+    second: jump-tile011
+  - first:
+      213: 5652930585318946538
+    second: jump-tile012
+  - first:
+      213: -4199041335418693498
+    second: jump-tile013
+  - first:
+      213: 2539804581020268029
+    second: jump-tile014
+  - first:
+      213: -7092681172073256620
+    second: jump-tile015
+  - first:
+      213: 5261378110097408324
+    second: jump-tile016
+  - first:
+      213: -5160342650473558038
+    second: jump-tile017
+  - first:
+      213: 3075300441158638724
+    second: jump-tile018
+  - first:
+      213: 2671894536419635419
+    second: run-tile000
+  - first:
+      213: 6548912949083517254
+    second: run-tile001
+  - first:
+      213: 6975697541209244631
+    second: run-tile002
+  - first:
+      213: 4808095209973680184
+    second: run-tile003
+  - first:
+      213: -102811574975113128
+    second: run-tile004
+  - first:
+      213: -4179839654192772761
+    second: run-tile005
+  - first:
+      213: -45566060121871655
+    second: run-tile006
+  - first:
+      213: -2305786598891044487
+    second: run-tile007
+  - first:
+      213: 7123117467810725644
+    second: run-tile008
+  - first:
+      213: 2292853287856529281
+    second: run-tile009
+  - first:
+      213: -7077069205079868188
+    second: run-tile010
+  - first:
+      213: 4465657802061568912
+    second: run-tile011
+  - first:
+      213: -8324744842954235547
+    second: run-tile012
+  - first:
+      213: -3122220847025027801
+    second: run-tile013
+  - first:
+      213: 4301337426613031050
+    second: run-tile014
+  - first:
+      213: 7521573596591037785
+    second: run-tile015
+  - first:
+      213: 1217123850927250817
+    second: run-tile016
+  - first:
+      213: -2887033215747143480
+    second: run-tile017
+  - first:
+      213: 1481171464349643937
+    second: run-tile018
+  - first:
+      213: 5194517785301232800
+    second: run-tile019
+  - first:
+      213: -3647794793641372281
+    second: run-tile020
+  - first:
+      213: -5112373761017351486
+    second: run-tile021
+  - first:
+      213: 1925954975864681208
+    second: run-tile022
+  - first:
+      213: 773682014597752295
+    second: run-tile023
+  - first:
+      213: -7553569421303580674
+    second: turn-tile000
+  - first:
+      213: 6205863316330843472
+    second: turn-tile001
+  - first:
+      213: 3135381229504995014
+    second: turn-tile002
+  - first:
+      213: -716201772208302097
+    second: turn-tile003
+  - first:
+      213: 1385420466454530454
+    second: turn-tile004
+  - first:
+      213: -8697682175094548271
+    second: wall-tile000
+  - first:
+      213: -2976155108903183656
+    second: wall-tile001
+  - first:
+      213: -5538400607743890518
+    second: wall-tile002
+  - first:
+      213: -6449033841043923268
+    second: wall-tile003
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: attack1-tile000
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 344
+        width: 28
+        height: 28
+      alignment: 9
+      pivot: {x: 0.8214286, y: 0.71428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4158fb6a66d1f150800000000000000
+      internalID: 5904736339025744204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack1-tile001
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 43
+        width: 24
+        height: 25
+      alignment: 9
+      pivot: {x: 0.9166667, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c71596582460270800000000000000
+      internalID: 8216327710949080086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack1-tile002
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 281
+        width: 45
+        height: 34
+      alignment: 9
+      pivot: {x: 0.4888889, y: 0.5882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae47543d3ba6f910800000000000000
+      internalID: 1870870974578511527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack1-tile003
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 338
+        width: 46
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.6060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc84c85140c1ca7f0800000000000000
+      internalID: -600073846480156465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack1-tile004
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 341
+        width: 46
+        height: 51
+      alignment: 9
+      pivot: {x: 0.65217394, y: 0.60784316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65fda1221bd6ad60800000000000000
+      internalID: 7901243467189056878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack1-tile005
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 354
+        width: 30
+        height: 34
+      alignment: 9
+      pivot: {x: 0.93333334, y: 0.61764705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb279e12b8a87e80800000000000000
+      internalID: -8180603240147637324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack1-tile006
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 69
+        width: 22
+        height: 32
+      alignment: 9
+      pivot: {x: 0.8636364, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f7ba5771ed030c0800000000000000
+      internalID: -4597931027205488852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack1-tile007
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 10
+        width: 22
+        height: 33
+      alignment: 9
+      pivot: {x: 0.8636364, y: 0.6060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d297ef24a3eb78cd0800000000000000
+      internalID: -2555865106068113107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack1-tile008
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 429
+        width: 55
+        height: 51
+      alignment: 9
+      pivot: {x: 0.56363636, y: 0.4117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd22e7182190b5c0800000000000000
+      internalID: -4201698850951254544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack1-tile009
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 315
+        width: 46
+        height: 33
+      alignment: 9
+      pivot: {x: 0.45652175, y: 0.6060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7929c481f2c6c6a60800000000000000
+      internalID: 7668623215032046231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack1-tile010
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 348
+        width: 47
+        height: 29
+      alignment: 9
+      pivot: {x: 0.4893617, y: 0.6896552}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a4479eacaa83d50800000000000000
+      internalID: 6717306632699922946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack1-tile011
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 282
+        width: 30
+        height: 29
+      alignment: 9
+      pivot: {x: 0.8, y: 0.6896552}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ed258983a227f20800000000000000
+      internalID: 3418841489689730568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack1-tile012
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 251
+        width: 27
+        height: 31
+      alignment: 9
+      pivot: {x: 0.7777778, y: 0.6451613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e399feaead04ad360800000000000000
+      internalID: 7195134663666407742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack1-tile013
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 34
+        width: 21
+        height: 31
+      alignment: 9
+      pivot: {x: 0.8095238, y: 0.6451613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41880d3747d98b20800000000000000
+      internalID: 3137275316406878542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack1-tile014
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 119
+        width: 19
+        height: 32
+      alignment: 9
+      pivot: {x: 0.7894737, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e8bc726adf4c390800000000000000
+      internalID: -7798829764624806375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack1-tile015
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 134
+        width: 23
+        height: 31
+      alignment: 9
+      pivot: {x: 0.73913044, y: 0.6451613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425a8db72d72cab10800000000000000
+      internalID: 1994012519992698148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack1-tile016
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 334
+        width: 46
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d721f7721b5159a80800000000000000
+      internalID: -8460832474329574787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack1-tile017
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 309
+        width: 46
+        height: 32
+      alignment: 9
+      pivot: {x: 0.54347825, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c1dd023311bba20800000000000000
+      internalID: 3079073681530231922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack1-tile018
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 200
+        width: 32
+        height: 24
+      alignment: 9
+      pivot: {x: 0.8125, y: 0.8333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f353da663486c30800000000000000
+      internalID: 4352803148125257524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack1-tile019
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 170
+        width: 32
+        height: 23
+      alignment: 9
+      pivot: {x: 0.8125, y: 0.8695652}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8959468adde9bca0800000000000000
+      internalID: -6000503505682867829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack1-tile020
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 147
+        width: 32
+        height: 23
+      alignment: 9
+      pivot: {x: 0.8125, y: 0.8695652}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38de4816a28f7e210800000000000000
+      internalID: 1362330273211280771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack1-tile021
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 180
+        width: 32
+        height: 23
+      alignment: 9
+      pivot: {x: 0.8125, y: 0.8695652}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca5f05aa240eef70800000000000000
+      internalID: 9218310068478368461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack1-tile022
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 192
+        width: 32
+        height: 24
+      alignment: 9
+      pivot: {x: 0.6875, y: 0.8333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9f1f73c22156890800000000000000
+      internalID: -7465540826170263103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack1-tile023
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 203
+        width: 33
+        height: 39
+      alignment: 9
+      pivot: {x: 0.8484849, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9aa28bbf9691e900800000000000000
+      internalID: 712015828891118235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack1-tile024
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 388
+        width: 31
+        height: 42
+      alignment: 9
+      pivot: {x: 0.9677419, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ae06798cf2f1d10800000000000000
+      internalID: 2098448489957616205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: attack1-tile025
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 224
+        width: 39
+        height: 48
+      alignment: 9
+      pivot: {x: 0.84615386, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3dace2c7a7a178b0800000000000000
+      internalID: -5156155759390839493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt-tile000
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 224
+        width: 39
+        height: 48
+      alignment: 9
+      pivot: {x: 0.84615386, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9779f29200d11d630800000000000000
+      internalID: 3949970234708825977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt-tile001
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 443
+        width: 56
+        height: 32
+      alignment: 9
+      pivot: {x: 0.4642857, y: 0.9375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ecd2e51748408350800000000000000
+      internalID: 6016888572314049766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt-tile002
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 56
+        height: 32
+      alignment: 9
+      pivot: {x: 0.4642857, y: 0.9375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f9d066a1c70ad90800000000000000
+      internalID: -7088529360657998067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt-tile003
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 480
+        width: 56
+        height: 32
+      alignment: 9
+      pivot: {x: 0.4642857, y: 0.9375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6a3292303ee0b10800000000000000
+      internalID: 1949745291412612805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt-tile004
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 484
+        width: 66
+        height: 28
+      alignment: 9
+      pivot: {x: 0.56060606, y: 0.71428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40c92913d1e0a710800000000000000
+      internalID: 1702608955922563150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt-tile005
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 272
+        width: 41
+        height: 37
+      alignment: 9
+      pivot: {x: 0.85365856, y: 0.5675676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78218e376531b3140800000000000000
+      internalID: 4700371898123948679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurt-tile006
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 224
+        width: 39
+        height: 48
+      alignment: 9
+      pivot: {x: 0.84615386, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87afe987ebeef5520800000000000000
+      internalID: 2693133604025727608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle-tile000
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 224
+        width: 39
+        height: 48
+      alignment: 9
+      pivot: {x: 0.84615386, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8f0d76147027c70800000000000000
+      internalID: 8967237785544095929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle-tile001
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 242
+        width: 39
+        height: 49
+      alignment: 9
+      pivot: {x: 0.84615386, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5a79a8ea2222880800000000000000
+      internalID: -8637303002298341929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle-tile002
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 200
+        width: 18
+        height: 34
+      alignment: 9
+      pivot: {x: 1.1111112, y: 0.5882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be481b958d30d9290800000000000000
+      internalID: -7882139545075874581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle-tile003
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 10
+        width: 21
+        height: 33
+      alignment: 9
+      pivot: {x: 1, y: 0.6060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99188ff7af87b1660800000000000000
+      internalID: 7357607433523986841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle-tile004
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 6
+        width: 21
+        height: 32
+      alignment: 9
+      pivot: {x: 1, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b089bd3d405a440800000000000000
+      internalID: 4946365073705143169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle-tile005
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 65
+        width: 24
+        height: 31
+      alignment: 9
+      pivot: {x: 0.9166667, y: 0.6451613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4873a181156c500800000000000000
+      internalID: 416109179539260616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle-tile006
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 165
+        width: 37
+        height: 65
+      alignment: 9
+      pivot: {x: 0.6486486, y: 0.5846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b5459b4949724a0800000000000000
+      internalID: -6618157760912270433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle-tile007
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 97
+        width: 25
+        height: 31
+      alignment: 9
+      pivot: {x: 0.92, y: 0.6451613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb9b5bcd4b9bd6f0800000000000000
+      internalID: -658762162053080113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle-tile008
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 10
+        width: 22
+        height: 33
+      alignment: 9
+      pivot: {x: 1, y: 0.6060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62bdde1c014b7c1c0800000000000000
+      internalID: -4483416919957972186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle-tile009
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 21
+        height: 33
+      alignment: 9
+      pivot: {x: 1.0476191, y: 0.6060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af09030c7d069470800000000000000
+      internalID: 8400916981184270243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle-tile010
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 291
+        width: 44
+        height: 47
+      alignment: 9
+      pivot: {x: 0.75, y: 0.44680852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587413eb6a328d7e0800000000000000
+      internalID: -1740602056916252795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle-tile011
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 443
+        width: 19
+        height: 34
+      alignment: 9
+      pivot: {x: 1.1578947, y: 0.5882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923ddc9dec2f4f540800000000000000
+      internalID: 5040920853165757225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle-tile012
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 410
+        width: 19
+        height: 33
+      alignment: 9
+      pivot: {x: 1.1578947, y: 0.6060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e206a304aa045cde0800000000000000
+      internalID: -1313572616342446034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle-tile013
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2
+        width: 20
+        height: 32
+      alignment: 9
+      pivot: {x: 1.15, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc267dc367146d80800000000000000
+      internalID: -8258450099274371880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle-tile014
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 131
+        width: 23
+        height: 30
+      alignment: 9
+      pivot: {x: 1.0434783, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8d7f9a621941b70800000000000000
+      internalID: 8868873161445726376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle-tile015
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 101
+        width: 23
+        height: 30
+      alignment: 9
+      pivot: {x: 1.0434783, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75a21747433bbed0800000000000000
+      internalID: -2397265995416558213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle-tile016
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 233
+        width: 42
+        height: 48
+      alignment: 9
+      pivot: {x: 0.95238096, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac177bc2864afdc0800000000000000
+      internalID: -3604491024183386964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle-tile017
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 54
+        width: 20
+        height: 33
+      alignment: 9
+      pivot: {x: 1.1, y: 0.6060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684841a04f3e42820800000000000000
+      internalID: 2892687497959343238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-tile000
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 269
+        width: 43
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5813953, y: 0.8292683}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ced29d707059020800000000000000
+      internalID: 2347790511033412645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-tile001
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 16
+        height: 34
+      alignment: 9
+      pivot: {x: 1.0625, y: 0.5882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb28e3ab50c13bc0800000000000000
+      internalID: -3805048710326899776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-tile002
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 439
+        width: 15
+        height: 34
+      alignment: 9
+      pivot: {x: 1.0666667, y: 0.5882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28faf2978975ea650800000000000000
+      internalID: 6246026045589270402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-tile003
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 9
+        width: 16
+        height: 34
+      alignment: 9
+      pivot: {x: 1.0625, y: 0.5882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ded1f49d4f117c0800000000000000
+      internalID: -4102228571385369208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-tile004
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 161
+        width: 17
+        height: 31
+      alignment: 9
+      pivot: {x: 1.117647, y: 0.61290324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c927d7f7fea82ef0800000000000000
+      internalID: -132663808969201211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-tile005
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 196
+        width: 35
+        height: 55
+      alignment: 9
+      pivot: {x: 0.8, y: 0.43636364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343e532f007de5750800000000000000
+      internalID: 6295705728174121795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-tile006
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 473
+        width: 57
+        height: 39
+      alignment: 9
+      pivot: {x: 0.64912283, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e87efbdbae655aa0800000000000000
+      internalID: -6172906029832046360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-tile007
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 475
+        width: 59
+        height: 37
+      alignment: 9
+      pivot: {x: 0.66101694, y: 0.5405405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf119c35c4a8c2a0800000000000000
+      internalID: -6716937677191438370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-tile008
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 475
+        width: 59
+        height: 37
+      alignment: 9
+      pivot: {x: 0.66101694, y: 0.5405405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb53aa952d69bb80800000000000000
+      internalID: -8378545623470482469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-tile009
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 230
+        width: 40
+        height: 56
+      alignment: 9
+      pivot: {x: 0.575, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7af7401e139fc60800000000000000
+      internalID: 7852362267810047973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-tile010
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 311
+        width: 27
+        height: 33
+      alignment: 9
+      pivot: {x: 0.8518519, y: 0.57575756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eab643dc19624910800000000000000
+      internalID: 1820132771935730401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-tile011
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 165
+        width: 26
+        height: 35
+      alignment: 9
+      pivot: {x: 0.84615386, y: 0.54285717}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54eee7e280606d170800000000000000
+      internalID: 8202750403511512645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-tile012
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 193
+        width: 35
+        height: 40
+      alignment: 9
+      pivot: {x: 0.8857143, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae670e5ba6e337e40800000000000000
+      internalID: 5652930585318946538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-tile013
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 310
+        width: 41
+        height: 44
+      alignment: 9
+      pivot: {x: 0.70731705, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688df2527220ab5c0800000000000000
+      internalID: -4199041335418693498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-tile014
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 372
+        width: 27
+        height: 38
+      alignment: 9
+      pivot: {x: 0.8518519, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df57f9a5fc23f3320800000000000000
+      internalID: 2539804581020268029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-tile015
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 68
+        width: 25
+        height: 29
+      alignment: 9
+      pivot: {x: 0.88, y: 0.6896552}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459e8797d0cb19d90800000000000000
+      internalID: -7092681172073256620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-tile016
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 58
+        height: 36
+      alignment: 9
+      pivot: {x: 0.51724136, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4414f51e38b240940800000000000000
+      internalID: 5261378110097408324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-tile017
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 43
+        width: 20
+        height: 26
+      alignment: 9
+      pivot: {x: 0.9, y: 0.7692308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aefc93733b7c268b0800000000000000
+      internalID: -5160342650473558038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-tile018
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 224
+        width: 39
+        height: 48
+      alignment: 9
+      pivot: {x: 0.84615386, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48cdcd42579adaa20800000000000000
+      internalID: 3075300441158638724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run-tile000
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 371
+        width: 47
+        height: 59
+      alignment: 9
+      pivot: {x: 0.7234042, y: 0.59322035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd07990bce9741520800000000000000
+      internalID: 2671894536419635419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run-tile001
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 392
+        width: 48
+        height: 51
+      alignment: 9
+      pivot: {x: 0.6458333, y: 0.49019608}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641341b21a962ea50800000000000000
+      internalID: 6548912949083517254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run-tile002
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 96
+        width: 25
+        height: 32
+      alignment: 9
+      pivot: {x: 0.92, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3c75474f7aec060800000000000000
+      internalID: 6975697541209244631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run-tile003
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 161
+        width: 26
+        height: 31
+      alignment: 9
+      pivot: {x: 0.88461536, y: 0.38709676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8380dbc7e19c9b240800000000000000
+      internalID: 4808095209973680184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run-tile004
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 103
+        width: 23
+        height: 31
+      alignment: 9
+      pivot: {x: 0.95652175, y: 0.4516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8585fc2da6db29ef0800000000000000
+      internalID: -102811574975113128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run-tile005
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 87
+        width: 19
+        height: 32
+      alignment: 9
+      pivot: {x: 1.0526316, y: 0.5625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7698fb1faf93ef5c0800000000000000
+      internalID: -4179839654192772761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run-tile006
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 169
+        width: 18
+        height: 31
+      alignment: 9
+      pivot: {x: 1.0555556, y: 0.6451613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da2f94e8ed1e5ff0800000000000000
+      internalID: -45566060121871655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run-tile007
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 151
+        width: 17
+        height: 30
+      alignment: 9
+      pivot: {x: 1.0588236, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9714e3d0e433000e0800000000000000
+      internalID: -2305786598891044487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run-tile008
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 82
+        width: 17
+        height: 28
+      alignment: 9
+      pivot: {x: 1.0588236, y: 0.71428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ffc3ad8956ad260800000000000000
+      internalID: 7123117467810725644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run-tile009
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 216
+        width: 36
+        height: 53
+      alignment: 9
+      pivot: {x: 0.7222222, y: 0.3962264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f56c0dae9d1df10800000000000000
+      internalID: 2292853287856529281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run-tile010
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 3
+        width: 21
+        height: 31
+      alignment: 9
+      pivot: {x: 0.95238096, y: 0.6451613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecbb5ccd0339cd90800000000000000
+      internalID: -7077069205079868188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run-tile011
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 10
+        width: 22
+        height: 33
+      alignment: 9
+      pivot: {x: 0.8636364, y: 0.6060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09bd4546c1439fd30800000000000000
+      internalID: 4465657802061568912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run-tile012
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 128
+        width: 33
+        height: 68
+      alignment: 9
+      pivot: {x: 0.72727275, y: 0.5588235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561a2f5fba0987c80800000000000000
+      internalID: -8324744842954235547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run-tile013
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 147
+        width: 25
+        height: 33
+      alignment: 9
+      pivot: {x: 0.84, y: 0.5151515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72501ce8ea4aba4d0800000000000000
+      internalID: -3122220847025027801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run-tile014
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 369
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0.6041667, y: 0.3617021}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80dc5c999b61bb30800000000000000
+      internalID: 4301337426613031050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run-tile015
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 430
+        width: 53
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5660377, y: 0.3488372}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d14c8c55ff16860800000000000000
+      internalID: 7521573596591037785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run-tile016
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 286
+        width: 45
+        height: 48
+      alignment: 9
+      pivot: {x: 0.64444447, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d9c2e91b714e010800000000000000
+      internalID: 1217123850927250817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run-tile017
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 132
+        width: 23
+        height: 33
+      alignment: 9
+      pivot: {x: 0.8695652, y: 0.54545456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c843a026923fe7d0800000000000000
+      internalID: -2887033215747143480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run-tile018
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 2
+        width: 19
+        height: 32
+      alignment: 9
+      pivot: {x: 0.94736844, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a47108699d2e8410800000000000000
+      internalID: 1481171464349643937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run-tile019
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 139
+        width: 18
+        height: 30
+      alignment: 9
+      pivot: {x: 0.9444444, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac245c6762a61840800000000000000
+      internalID: 5194517785301232800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run-tile020
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 110
+        width: 18
+        height: 29
+      alignment: 9
+      pivot: {x: 0.9444444, y: 0.6896552}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7859c7746fd606dc0800000000000000
+      internalID: -3647794793641372281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run-tile021
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 131
+        width: 20
+        height: 30
+      alignment: 9
+      pivot: {x: 0.95, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2788f96233d09b0800000000000000
+      internalID: -5112373761017351486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run-tile022
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 38
+        width: 22
+        height: 31
+      alignment: 9
+      pivot: {x: 0.90909094, y: 0.6451613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f27fcda8dd5aba10800000000000000
+      internalID: 1925954975864681208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run-tile023
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 377
+        width: 47
+        height: 52
+      alignment: 9
+      pivot: {x: 0.61702126, y: 0.65384614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5253171bbacba00800000000000000
+      internalID: 773682014597752295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turn-tile000
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 116
+        width: 19
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.58064514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef772f0c1a45c2790800000000000000
+      internalID: -7553569421303580674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turn-tile001
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 6
+        width: 21
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.5625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d078e5ec7af1650800000000000000
+      internalID: 6205863316330843472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turn-tile002
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 102
+        width: 19
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce9214cd9c138b20800000000000000
+      internalID: 3135381229504995014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turn-tile003
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2
+        width: 19
+        height: 32
+      alignment: 9
+      pivot: {x: 0.36842105, y: 0.5625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7d404684a8f06f0800000000000000
+      internalID: -716201772208302097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: turn-tile004
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 55
+        width: 21
+        height: 33
+      alignment: 9
+      pivot: {x: 0.3809524, y: 0.54545456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699049fe2900a3310800000000000000
+      internalID: 1385420466454530454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-tile000
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 88
+        width: 25
+        height: 59
+      alignment: 9
+      pivot: {x: 0.32, y: 0.5254237}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d81e30e420ab4780800000000000000
+      internalID: -8697682175094548271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-tile001
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 181
+        width: 17
+        height: 35
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.51428574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da9c5162b292b6d0800000000000000
+      internalID: -2976155108903183656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-tile002
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 477
+        width: 18
+        height: 35
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.51428574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab2e9fadf5a323b0800000000000000
+      internalID: -5538400607743890518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall-tile003
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 234
+        width: 18
+        height: 35
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.51428574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe9a18d3ed6086a0800000000000000
+      internalID: -6449033841043923268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: 217da03c2e9b7364399993a756afbf34, type: 3}
+      name: _GlowTexture
+    nameFileIdTable:
+      run-tile002: 6975697541209244631
+      attack1-tile000: 5904736339025744204
+      hurt-tile000: 3949970234708825977
+      idle-tile015: -2397265995416558213
+      wall-tile003: -6449033841043923268
+      attack1-tile023: 712015828891118235
+      idle-tile011: 5040920853165757225
+      jump-tile002: 6246026045589270402
+      attack1-tile004: 7901243467189056878
+      attack1-tile007: -2555865106068113107
+      idle-tile017: 2892687497959343238
+      run-tile006: -45566060121871655
+      run-tile013: -3122220847025027801
+      idle-tile012: -1313572616342446034
+      run-tile022: 1925954975864681208
+      run-tile019: 5194517785301232800
+      idle-tile014: 8868873161445726376
+      jump-tile017: -5160342650473558038
+      attack1-tile025: -5156155759390839493
+      idle-tile009: 8400916981184270243
+      attack1-tile009: 7668623215032046231
+      idle-tile002: -7882139545075874581
+      jump-tile018: 3075300441158638724
+      jump-tile000: 2347790511033412645
+      idle-tile010: -1740602056916252795
+      run-tile005: -4179839654192772761
+      hurt-tile001: 6016888572314049766
+      hurt-tile002: -7088529360657998067
+      attack1-tile001: 8216327710949080086
+      jump-tile012: 5652930585318946538
+      attack1-tile010: 6717306632699922946
+      jump-tile016: 5261378110097408324
+      run-tile021: -5112373761017351486
+      attack1-tile005: -8180603240147637324
+      jump-tile004: -132663808969201211
+      run-tile014: 4301337426613031050
+      jump-tile007: -6716937677191438370
+      attack1-tile008: -4201698850951254544
+      idle-tile003: 7357607433523986841
+      run-tile012: -8324744842954235547
+      attack1-tile017: 3079073681530231922
+      idle-tile004: 4946365073705143169
+      run-tile023: 773682014597752295
+      attack1-tile015: 1994012519992698148
+      idle-tile001: -8637303002298341929
+      run-tile017: -2887033215747143480
+      wall-tile002: -5538400607743890518
+      turn-tile004: 1385420466454530454
+      wall-tile000: -8697682175094548271
+      attack1-tile022: -7465540826170263103
+      attack1-tile012: 7195134663666407742
+      jump-tile005: 6295705728174121795
+      attack1-tile018: 4352803148125257524
+      hurt-tile003: 1949745291412612805
+      run-tile007: -2305786598891044487
+      attack1-tile006: -4597931027205488852
+      hurt-tile006: 2693133604025727608
+      run-tile020: -3647794793641372281
+      jump-tile009: 7852362267810047973
+      turn-tile000: -7553569421303580674
+      idle-tile008: -4483416919957972186
+      run-tile000: 2671894536419635419
+      turn-tile002: 3135381229504995014
+      idle-tile007: -658762162053080113
+      attack1-tile002: 1870870974578511527
+      jump-tile003: -4102228571385369208
+      idle-tile016: -3604491024183386964
+      run-tile003: 4808095209973680184
+      run-tile010: -7077069205079868188
+      attack1-tile014: -7798829764624806375
+      wall-tile001: -2976155108903183656
+      attack1-tile024: 2098448489957616205
+      attack1-tile016: -8460832474329574787
+      hurt-tile004: 1702608955922563150
+      idle-tile000: 8967237785544095929
+      run-tile008: 7123117467810725644
+      attack1-tile021: 9218310068478368461
+      attack1-tile003: -600073846480156465
+      jump-tile006: -6172906029832046360
+      run-tile011: 4465657802061568912
+      turn-tile003: -716201772208302097
+      jump-tile011: 8202750403511512645
+      jump-tile014: 2539804581020268029
+      jump-tile015: -7092681172073256620
+      turn-tile001: 6205863316330843472
+      jump-tile008: -8378545623470482469
+      attack1-tile020: 1362330273211280771
+      jump-tile010: 1820132771935730401
+      run-tile004: -102811574975113128
+      attack1-tile013: 3137275316406878542
+      run-tile018: 1481171464349643937
+      run-tile016: 1217123850927250817
+      attack1-tile019: -6000503505682867829
+      jump-tile001: -3805048710326899776
+      run-tile001: 6548912949083517254
+      attack1-tile011: 3418841489689730568
+      idle-tile013: -8258450099274371880
+      idle-tile006: -6618157760912270433
+      idle-tile005: 416109179539260616
+      run-tile009: 2292853287856529281
+      jump-tile013: -4199041335418693498
+      run-tile015: 7521573596591037785
+      hurt-tile005: 4700371898123948679
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
